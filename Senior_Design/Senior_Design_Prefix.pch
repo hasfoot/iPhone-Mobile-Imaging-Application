@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Senior_Design' target in the 'Senior_Design' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
