@@ -1,0 +1,286 @@
+TSenior_Design
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/tguidon/Library/MobileDevice/Provisioning Profiles/85886627-3836-478D-A987-F0C90CFF3BCF.mobileprovision
+c000000004D712FFC0000000000001CBE
+t1299263484
+s7358
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/BlackBox.png
+c000000004D715F55000000000000056A
+t1299275605
+s1386
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/Classes/Senior_DesignAppDelegate.h
+c000000004D7B1566000000000000020F
+t1299912038
+s527
+i<UIKit/UIKit.h>
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/Classes/Senior_DesignAppDelegate.m
+c000000004D7B15660000000000000ABF
+t1299912038
+s2751
+i"Senior_DesignAppDelegate.h"
+i"Senior_DesignViewController.h"
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/Classes/Senior_DesignViewController.h
+c000000004D8B691B00000000000001C4
+t1300982043
+s452
+i<UIKit/UIKit.h>
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/Classes/Senior_DesignViewController.m
+c000000004D8B6927000000000000064E
+t1300982055
+s1614
+i"Senior_DesignViewController.h"
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/GW@2x.png
+c000000004D7A44330000000000036999
+t1299858483
+s223641
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/MainWindow.xib
+c000000004D7B15660000000000004E71
+t1299912038
+s20081
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/Senior_DesignViewController.xib
+c000000004D8B69FA0000000000005791
+t1300982266
+s22417
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/Senior_Design_Prefix.pch
+c000000004D7B156600000000000000C3
+t1299912038
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app.dSYM
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/BlackBox.png
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/GW@2x.png
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/Info.plist
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/MainWindow.nib
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/PkgInfo
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/ResourceRules.plist
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/Senior_Design
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/Senior_DesignViewController.nib
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/iPhone Splash.png
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv6/Senior_Design
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv6/Senior_Design.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv6/Senior_DesignAppDelegate.o
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv6/Senior_DesignViewController.o
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv7/Senior_Design
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv7/Senior_Design.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv7/Senior_DesignAppDelegate.o
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv7/Senior_DesignViewController.o
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Senior_Design.build/Release-iphoneos/Senior_Design.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/iPhone Splash.png
+c000000004D715AF7000000000007D61C
+t1299274487
+s513564
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/main.m
+c000000004D7B1566000000000000017B
+t1299912038
+s379
+i<UIKit/UIKit.h>
+
+N/var/folders/-T/-T0peX7XEamw0J59BwjrfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Senior_Design_Prefix-abhzzpaxkigfdodveqzydibvuzyu/Senior_Design_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/-T/-T0peX7XEamw0J59BwjrfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Senior_Design_Prefix-bpzxmdgubmoehugjqicmvnomjzoo/Senior_Design_Prefix.pch.gch
+t2
+s0
+
+NSenior_Design-Info.plist
+c000000004D8B68F500000000000003FF
+t1300982005
+s1023
+
+CCodeSign /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app
+r0
+
+CCompileC build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv6/Senior_DesignAppDelegate.o /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/Classes/Senior_DesignAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv6/Senior_DesignViewController.o /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/Classes/Senior_DesignViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv6/main.o /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv7/Senior_DesignAppDelegate.o /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/Classes/Senior_DesignAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv7/Senior_DesignViewController.o /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/Classes/Senior_DesignViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv7/main.o /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/MainWindow.xib
+r0
+
+CCompileXIB /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/Senior_DesignViewController.xib
+r0
+
+CCopyPNGFile "/Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/iPhone Splash.png" "iPhone Splash.png"
+r0
+
+CCopyPNGFile /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/BlackBox.png BlackBox.png
+r0
+
+CCopyPNGFile /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/GW@2x.png GW@2x.png
+r0
+
+CCpResource build/Release-iphoneos/Senior_Design.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/Senior_Design normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app.dSYM /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/Senior_Design
+r0
+
+CLd /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv6/Senior_Design normal armv6
+r0
+
+CLd /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Objects-normal/armv7/Senior_Design normal armv7
+r0
+
+CProcessInfoPlistFile /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/Info.plist Senior_Design-Info.plist
+r0
+
+CProcessPCH /var/folders/-T/-T0peX7XEamw0J59BwjrfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Senior_Design_Prefix-abhzzpaxkigfdodveqzydibvuzyu/Senior_Design_Prefix.pch.gch Senior_Design_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/-T/-T0peX7XEamw0J59BwjrfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Senior_Design_Prefix-bpzxmdgubmoehugjqicmvnomjzoo/Senior_Design_Prefix.pch.gch Senior_Design_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/tguidon/Library/MobileDevice/Provisioning Profiles/85886627-3836-478D-A987-F0C90CFF3BCF.mobileprovision" /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Senior_Design.build/Release-iphoneos/Senior_Design.build/Senior_Design.xcent
+r0
+
+CTouch /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app
+r0
+
+CValidate /Users/tguidon/iPhone-Mobile-Imaging-Application/Senior_Design/build/Release-iphoneos/Senior_Design.app
+r0
+

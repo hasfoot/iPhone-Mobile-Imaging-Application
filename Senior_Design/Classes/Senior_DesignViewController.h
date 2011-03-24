@@ -9,8 +9,14 @@
 #import <UIKit/UIKit.h>
 
 @interface Senior_DesignViewController : UIViewController {
-
+	IBOutlet UIButton *findMe;
+	IBOutlet UILabel *success;
 }
+
+@property (retain, nonatomic) UIButton *findMe;
+@property (retain, nonatomic) UILabel *success;
+
+-(IBAction)foundMe:(id)sender;
 
 @end
 
